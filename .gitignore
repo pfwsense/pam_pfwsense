@@ -1,0 +1,14 @@
+*.a
+*.debug
+*.depend
+*.full
+*.gz
+*.in
+*.lo
+*.o
+*.pico
+*.po
+*.so
+*~
+bin/pfwsense-login
+libexec/pfwsense-pam
